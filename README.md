@@ -23,7 +23,7 @@ Includes the following features:
 
 ## 🚀 How to Use
 (Uninstall previous release first if you have it from Add/Remove Programs)
-1. **Requires** C++ 2015-2022 x64 Redistributables: hytttps://aka.ms/vs/17/release/vc_redist.x64.exe
+1. **Requires** C++ 2015-2022 x64 Redistributables: https://aka.ms/vs/17/release/vc_redist.x64.exe
 2. **Download the latest release** from the [Releases](https://github.com/magoogle/D4Assistant/releases/tag/Release) tab.
 3. **Install** Run the MSI.
 4. **Run** Desktop Shortcut for Magoogles - D4 Assistant.
