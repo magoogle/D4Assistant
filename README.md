@@ -4,9 +4,7 @@ This software is standalone and does not "hook" into the game in any way. It emu
 Includes the following features:
   1. Masterworking Assistant (Will use all of your gold and materials if you let it)
   2. Belial Chest Opener with Boss selection
-
-Upcoming features:
-  - Controller support for Xbox and Playstation controllers. (Currently only works when the chest is opened via keyboard)
+  3. Enchant Assistant (Will use all of your gold if you let it)
 
 
 **The Diablo IV Assistant** automates the process of selecting and opening boss loot chests as well as handling masterworking. It uses OCR (Optical Character Recognition) and mouse automation to detect and click the correct options based on the boss you select.
@@ -18,22 +16,19 @@ Upcoming features:
 - Automatically detects the "Modify Reward" chest screen.
 - Scrolls through the boss list and selects the boss you specify.
 - Clicks "Open" once the desired boss is selected.
-- Works with mouse/keyboard input (controller coming soon).
+- Works with mouse/keyboard/controller.
 - Supports debug mode to view OCR output and saved images.
 
 ---
 
 ## 🚀 How to Use
-
+(Uninstall previous release first if you have it from Add/Remove Programs)
 1. **Download the latest release** from the [Releases](https://github.com/magoogle/D4Assistant/releases/tag/Release) tab.
 2. **Install** Run the MSI.
 3. **Run** Desktop Shortcut for Magoogles - D4 Assistant.
-4. On first launch, you'll be prompted to:
-   - Set regions for: Modify button, Open button, Scroll arrow, and Boss list.
-   - These are saved in `config.json` in the same folder.
-5. **Select the boss name** from the dropdown list.
-6. Click **Start** to begin the looter process.
-7. Click **Stop** to end it at any time.
+4. **Choose** Masterworking/Enchanter/Belial Chest Opener
+6. Click **Start** to begin
+7. Pressing "P" will end it at any time.
 
 ---
 
