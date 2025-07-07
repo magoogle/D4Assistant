@@ -23,10 +23,11 @@ Includes the following features:
 
 ## 🚀 How to Use
 (Uninstall previous release first if you have it from Add/Remove Programs)
-1. **Download the latest release** from the [Releases](https://github.com/magoogle/D4Assistant/releases/tag/Release) tab.
-2. **Install** Run the MSI.
-3. **Run** Desktop Shortcut for Magoogles - D4 Assistant.
-4. **Choose** Masterworking/Enchanter/Belial Chest Opener
+1. **Requires** C++ 2015-2022 x64 Redistributables: hytttps://aka.ms/vs/17/release/vc_redist.x64.exe
+2. **Download the latest release** from the [Releases](https://github.com/magoogle/D4Assistant/releases/tag/Release) tab.
+3. **Install** Run the MSI.
+4. **Run** Desktop Shortcut for Magoogles - D4 Assistant.
+5. **Choose** Masterworking/Enchanter/Belial Chest Opener
 6. Click **Start** to begin
 7. Pressing "P" will end it at any time.
 
